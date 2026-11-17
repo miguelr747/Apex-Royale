@@ -1,0 +1,6 @@
+{
+  "name": "Apex Royale: Build & Battle",
+  "description": "Videojuego Battle Royale multijugador en 3D con construcción en tiempo real, gráficos optimizados y chat de voz integrado.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
